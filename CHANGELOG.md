@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [0.0.21] - 2019-06-02
+### Fixed
+- Elapsed time calculation on INSERT.
+
 ## [0.0.20] - 2019-06-02
 ### Added
 - LowCardinality(T) type.
@@ -197,7 +201,8 @@
 - Date/DateTime types.
 - String types.
 
-[Unreleased]: https://github.com/mymarilyn/clickhouse-driver/compare/0.0.20...HEAD
+[Unreleased]: https://github.com/mymarilyn/clickhouse-driver/compare/0.0.21...HEAD
+[0.0.21]: https://github.com/mymarilyn/clickhouse-driver/compare/0.0.20...0.0.21
 [0.0.20]: https://github.com/mymarilyn/clickhouse-driver/compare/0.0.19...0.0.20
 [0.0.19]: https://github.com/mymarilyn/clickhouse-driver/compare/0.0.18...0.0.19
 [0.0.18]: https://github.com/mymarilyn/clickhouse-driver/compare/0.0.17...0.0.18
